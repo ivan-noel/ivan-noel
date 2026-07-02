@@ -2,7 +2,8 @@
 
 ## Short explanation about Me
 
-Only intrested on making and designing Front End, 
+Only intrested on making and designing Front End.
+And a big Mizuki Akiyama fan
 
 ---
 
@@ -11,3 +12,5 @@ Only intrested on making and designing Front End,
 - 💻 Beginner Web Developer
 
 ---
+
+I'll add my contact later.
