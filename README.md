@@ -1,4 +1,4 @@
-# Hi there 👋, im Ivan
+# Hi there 👋, i'm Ivan
 
 ## Short explanation about Me
 
