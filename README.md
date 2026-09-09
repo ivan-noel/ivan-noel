@@ -16,4 +16,5 @@ And a big Mizuki Akiyama fan
 ### Languages and Tools:
 Python, JavaScript, PHP, SQL, Linux, MariaDB, Laragon.
 
+---
 I'll add my contact later.
