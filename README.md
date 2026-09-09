@@ -10,8 +10,10 @@ And a big Mizuki Akiyama fan
 
 - 🌐 Focusing on HTML & CSS
 - 🥰 I love you Figma
-- 📚 Currently only know 2 language (Python and JavaScript)
 
 ---
+
+### Languages and Tools:
+Python, JavaScript, PHP, SQL, Linux, MariaDB, Laragon.
 
 I'll add my contact later.
